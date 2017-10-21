@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 12.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Registro de generación de código/transformación de texto">
+  <MessageClass Name="Message" Label="Mensaje" Option="Mostrar mensajes informativos" />
+  <MessageClass Name="Warning" Label="Advertencia" Option="Mostrar advertencias" />
+  <MessageClass Name="Error" Label="Error" Option="Mostrar errores" />
+  <MessageClass Name="Property" Label="Propiedad" Option="Mostrar metadatos" />
+  <MessageClass Name="Diagnostic" Label="Mensaje" Option="Mostrar mensajes de diagnóstico" />
+  <Message Timestamp="2017-10-21T00:52:20" Importance="High" Text="Se inició la ingeniería inversa." />
+  <Message Timestamp="2017-10-21T00:52:20" Importance="Diagnostic" Text="Se realizó ingeniería inversa del elemento en el modelo UML: 'UMLPatronBuilder::ConsoleBuilderV2' -  (Package)" />
+  <Message Timestamp="2017-10-21T00:52:20" Importance="Diagnostic" Text="Se realizó ingeniería inversa del elemento en el modelo UML: 'UMLPatronBuilder::ConsoleBuilderV2::Model' -  (Package)" />
+  <Message Timestamp="2017-10-21T00:52:20" Importance="Diagnostic" Text="Se realizó ingeniería inversa del elemento en el modelo UML: 'UMLPatronBuilder::ConsoleBuilderV2::Model::Vehiculo' -  (Class)  (ingeniería inversa parcial, definición no actualizada) " />
+  <Message Timestamp="2017-10-21T00:52:20" Importance="Medium" Text="Se realizó ingeniería inversa del elemento en el modelo UML: 'UMLPatronBuilder::ConsoleBuilderV2::Model::VehiculoBuilder' -  (Class)" />
+  <Message Timestamp="2017-10-21T00:52:20" Importance="Diagnostic" Text="Se realizó ingeniería inversa del elemento en el modelo UML: 'UMLPatronBuilder::ConsoleBuilderV2::Model::VehiculoBuilder::BuildLlantas' -  (Operation)" />
+  <Message Timestamp="2017-10-21T00:52:20" Importance="Diagnostic" Text="Se realizó ingeniería inversa del elemento en el modelo UML: 'UMLPatronBuilder::ConsoleBuilderV2::Model::VehiculoBuilder::BuildPuertas' -  (Operation)" />
+  <Message Timestamp="2017-10-21T00:52:20" Importance="Diagnostic" Text="Se realizó ingeniería inversa del elemento en el modelo UML: 'UMLPatronBuilder::ConsoleBuilderV2::Model::VehiculoBuilder::BuildVelocidad' -  (Operation)" />
+  <Message Timestamp="2017-10-21T00:52:20" Importance="Diagnostic" Text="Se realizó ingeniería inversa del elemento en el modelo UML: 'UMLPatronBuilder::ConsoleBuilderV2::Model::VehiculoBuilder::vehiculo' -  (Property)" />
+  <Message Timestamp="2017-10-21T00:52:20" Importance="Diagnostic" Text="Se realizó ingeniería inversa del elemento en el modelo UML: 'UMLPatronBuilder::ConsoleBuilderV2::Model::VehiculoBuilder::Vehiculo' -  (Property)" />
+  <Message Timestamp="2017-10-21T00:52:20" Importance="Diagnostic" Text="Se realizó ingeniería inversa del elemento en el modelo UML: 'UMLPatronBuilder::ConsoleBuilderV2::Model::VehiculoBuilder::VehiculoBuilder' -  (Operation)" />
+  <Message Timestamp="2017-10-21T00:52:20" Importance="Diagnostic" Text="Se realizó ingeniería inversa de la relación en el modelo UML: UMLPatronBuilder::ConsoleBuilderV2::Model::VehiculoBuilder a UMLPatronBuilder::ConsoleBuilderV2::Model::Vehiculo (Association)" />
+  <Message Timestamp="2017-10-21T00:52:20" Importance="Diagnostic" Text="Se realizó ingeniería inversa de la relación en el modelo UML: UMLPatronBuilder::ConsoleBuilderV2::Model::MotoBuilder a UMLPatronBuilder::ConsoleBuilderV2::Model::VehiculoBuilder (Generalization)" />
+  <Message Timestamp="2017-10-21T00:52:20" Importance="Diagnostic" Text="Se realizó ingeniería inversa de la relación en el modelo UML: UMLPatronBuilder::ConsoleBuilderV2::Model::BicicletaBuilder a UMLPatronBuilder::ConsoleBuilderV2::Model::VehiculoBuilder (Generalization)" />
+  <Message Timestamp="2017-10-21T00:52:20" Importance="Diagnostic" Text="Se realizó ingeniería inversa de la relación en el modelo UML: UMLPatronBuilder::ConsoleBuilderV2::Model::CarroBuilder a UMLPatronBuilder::ConsoleBuilderV2::Model::VehiculoBuilder (Generalization)" />
+  <Message Timestamp="2017-10-21T00:52:20" Importance="High" Text="Se realizó ingeniería inversa total de los siguientes tipos: (1)." />
+  <Message Timestamp="2017-10-21T00:52:20" Importance="High" Text="Se realizó ingeniería inversa parcial de los siguientes tipos: (1). Estos tipos no se incluyeron en la selección original, por lo que no se realizó ingeniería inversa de sus definiciones completas. En su lugar, esta operación superficial se limita a asegurarse de que estos tipos existen en el modelo UML porque son necesarios para describir a otros elementos por completo." />
+  <Message Timestamp="2017-10-21T00:52:20" Importance="High" Text="La operación de ingeniería inversa se completó con (0) errores y (0) advertencias." />
+</Log>
